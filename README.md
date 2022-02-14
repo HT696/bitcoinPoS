@@ -1,11 +1,10 @@
 ![Alt text](images/banner.png?raw=true "banner")
 
 <h1>
-bitcoinPoS
+پوز بیت کوین آفلاین
 </h1>
-
+پوز بیت کوین آفلاین
 ## Free and open-source bitcoin point-of-sale (includes device portal for easy setup!)
-
 bitcoinPoS includes:
 
 - LNPoS (for online LN payments, original <a href="https://github.com/arcbtc/LNPoS">project</a>)
