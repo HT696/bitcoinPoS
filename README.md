@@ -9,3 +9,7 @@
 فایل BTCPOS_GIT.rar شامل دیتاشیتها
 <br>
 پروژه مورد استفاده https://github.com/cybertech1981/bitcoinPoS/tree/main/bitcoinPoSTdisplay
+
+<br><br>
+<img src="images/photo_۲۰۲۲-۰۲-۱۵_۰۰-۰۲-۳۸.jpg?raw=true" width="75%">
+
